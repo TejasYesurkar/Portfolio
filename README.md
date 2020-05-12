@@ -1,8 +1,8 @@
-# James Watson's Developer Portfolio
+# Tejas Yesurkar Developer Portfolio
 
 This repository is the full source code for my personal portfolio. 
 
-Check out the live website at: https://www.jamesdwatson.co.uk
+Check out the live website at: https://www.tejasyesurkar.com
 
 Inspired by Ryan Fitzgerald's excellent portfolio template: https://github.com/RyanFitzgerald/devportfolio
 
