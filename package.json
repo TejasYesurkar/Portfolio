@@ -24,7 +24,7 @@
     "core-js": "^2.5.7",
     "cryptiles": "^4.1.2",
     "hoek": "^5.0.4",
-    "karma": "^3.0.0",
+    "karma": "^6.3.16",
     "ng2-scroll-to-el": "^1.2.1",
     "rxjs": "^6.5.5",
     "rxjs-compat": "^6.0.0-rc.0",
